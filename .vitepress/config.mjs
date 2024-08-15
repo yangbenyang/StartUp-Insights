@@ -2,13 +2,15 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "前端探索与创作日志",
-  description: "记录我在前端开发和自媒体创作中的学习历程与心得体会。",
+  title: "前端独立开发",
+  description: "独立开发者,独立开发,自由创作,前端赚钱,独立开发者",
+  head: [['link', { rel: 'icon', href: '/images/logo.png' }]],
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Examples', link: '/markdown-examples' }
     ],
+    logo: '/images/logo.png',
 
     sidebar: [
       {
