@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "前端独立开发",
-  description: "独立开发者,独立开发,自由创作,前端赚钱,独立开发者",
+  title: "兼职创业",
+  description: "独立开发|前端赚钱|自由职业|技术创业|开发者成长指南",
   head: [['link', { rel: 'icon', href: '/images/logo.png' }]],
   themeConfig: {
     nav: [
