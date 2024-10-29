@@ -19,7 +19,7 @@ features:
       src: /images/live-icon.png
     title: 直播切片工具
     details: 探索直播切片行业的创业机会,分享行业洞察和实用工具,助力创作者把握短视频时代的红利。
-    link: /api-examples
+    link: /liveSlice/guide/what-is-liveclip
     linkText: 项目进展
   # - icon:
   #     src: /images/learn-en.png
